@@ -1,1 +1,1 @@
-# praktikum-menghitung-lluas-dan-keliling-lingkaran
+# praktikum-menghitung-luas-dan-keliling-lingkaran
